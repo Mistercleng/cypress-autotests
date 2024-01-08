@@ -1,0 +1,6 @@
+{
+    "loginForm":"[name='form']",
+    "userEmail":"#email",
+    "userPassword":"#password",
+    "loginButton":"button"
+}
