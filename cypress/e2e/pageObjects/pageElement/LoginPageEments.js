@@ -19,6 +19,10 @@ class LoginPageEments {
     loginButton(){
         return cy.get(locator.loginButton)
     }
+
+    logo(){
+        return cy.get(locator.logo)
+    }
 }
 
 export default LoginPageEments;

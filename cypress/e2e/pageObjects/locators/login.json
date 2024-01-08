@@ -2,5 +2,6 @@
     "loginForm":"[name='form']",
     "userEmail":"#email",
     "userPassword":"#password",
-    "loginButton":"button"
+    "loginButton":"button",
+    "logo":"img"
 }
